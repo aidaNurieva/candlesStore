@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CandlesStore/static/css/main.f855e6bc.css",
+    "main.js": "/CandlesStore/static/js/main.f81f55a1.js",
+    "static/js/453.725e3135.chunk.js": "/CandlesStore/static/js/453.725e3135.chunk.js",
+    "static/media/logo.svg": "/CandlesStore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CandlesStore/index.html",
+    "main.f855e6bc.css.map": "/CandlesStore/static/css/main.f855e6bc.css.map",
+    "main.f81f55a1.js.map": "/CandlesStore/static/js/main.f81f55a1.js.map",
+    "453.725e3135.chunk.js.map": "/CandlesStore/static/js/453.725e3135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f81f55a1.js"
+  ]
+}
